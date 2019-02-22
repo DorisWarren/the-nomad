@@ -10,7 +10,7 @@ _The PDX Collective website is being built to create a safe place for freelance 
 
 ## Target Users
 
-* _NOT JUST A COMMUNITY BUT A PLATFORM FOR GROWTH_
+* _NOT JUST A COMMUNITY BUT A PLATFORM FOR GROWTH!_
 
 * _A potential beehive that is not restricted to a specific group. Open a nature of all collectives, where everyone is willing to learn and grow together._
 
