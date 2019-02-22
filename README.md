@@ -1,12 +1,12 @@
 # _The Collective_
 
-#### _MockUp website design for a co-working space. A place to feel at home and welcomed no matter what you do!, Febuary 22, 2019_
+#### _MockUp website design for a co-working space. A place to feel at home and welcomed no matter what you do!_
 
-#### By _**{List of contributors}**_
+#### By _**Doris Warren**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_The Collective website is being built to create a safe place for freelance creatives of all sorts, to come together! | This is an exercise curated for us to practice the process of designing a website. We will exercise strengths in targeting users, creating wireframes, curating navigable prototypes and the best for last, coding a live site!_
 
 ## Setup/Installation Requirements
 
