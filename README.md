@@ -6,11 +6,19 @@
 
 ## Description
 
-_The Collective website is being built to create a safe place for freelance creatives of all sorts, to come together! | This is an exercise curated for us to practice the process of designing a website. We will exercise strengths in targeting users, creating wireframes, curating navigable prototypes and the best for last, coding a live site!_
+_The PDX Collective website is being built to create a safe place for freelance creatives of all sorts, to come together! | This is an exercise created for us to practice the process of designing a website. We will exercise strengths in targeting users, creating wireframes, curating navigable prototypes and the best for last, coding a live site!_
+
+## Target Users
+
+* _NOT JUST A COMMUNITY BUT A PLATFORM FOR GROWTH_
+
+* _A potential beehive that is not restricted to a specific group. Open a nature of all collectives, where everyone is willing to learn and grow together._
+
+* _The design and structure of a co-working space maintains the professionalism of a luxurious office. Along with providing an environment that makes you feel safe enough to bring out that spunk in you. A non-traditional co-working space!_
+
+* _All potential co-workers will be able to see all the cool modern amenities we provide. One of the best luxuries The PDX Collective provides, are the group activities co-workers will have access to. Ready to mingle?_
 
 ## User Personas | Stories
-
-_
 
 ## Setup/Installation Requirements
 
