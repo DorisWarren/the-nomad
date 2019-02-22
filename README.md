@@ -8,6 +8,10 @@
 
 _The Collective website is being built to create a safe place for freelance creatives of all sorts, to come together! | This is an exercise curated for us to practice the process of designing a website. We will exercise strengths in targeting users, creating wireframes, curating navigable prototypes and the best for last, coding a live site!_
 
+## User Personas | Stories
+
+_
+
 ## Setup/Installation Requirements
 
 * _This is a great place_
