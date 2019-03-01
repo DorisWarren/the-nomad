@@ -43,15 +43,15 @@ _The Nomad website is being built to create a safe place for freelance creatives
 * _We offer weekly activities._
 * _There are plenty of wide, open spaces in the office._
 
-#### Nick Stindos |  
+#### Nick Stindos | Artist  
 
-##### "I don't want to lose sight of *who I am* when I go to work."
+##### "I want to build relationships with people who like me and my work!"
 
 ###### Needs
 
-* _A heart warming space to work_
-* _Freedom of self-expression_
-* _Feeling of community_
+* _Open spaces, where i can feel free to create._
+* _Finding fellow creatives._
+* _A safe zone where i feel i can ask for help or an opinion._
 
 ###### Pain Points
 
