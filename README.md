@@ -55,46 +55,39 @@ _The Nomad website is being built to create a safe place for freelance creatives
 
 ###### Pain Points
 
-* _It is painful being in an environment where there is - no diversity in personality or in background. Meeting new people is key!_
-* _Workplaces that don't offer any recreational activities to break up the feeling of you're everyday schedule._
-* _Small, confined areas._
+* _As an artist it is challenging to find people I can surround myself with, that can inspire me to allow my interest in non-art related subjects to influence my art._
+* _Workplaces that feel sterile._
+* _Not enough natural light! Coffee, lots of coffee._
 
 ###### How we can serve
 
-* _The Nomad is welcoming and helps you find a space that is suitable for you're spirt._
-* _The Nomad is not your normal co-working space. We are a home without the beds._
-* _We offer weekly activities._
-* _There are plenty of wide, open spaces in the office._
+* _The Nomad is home to a collective of people around the world. Diversity like no other. Influencers that can make a change, meet here once a week._
+* _At The Nomad we curate a space where people build relationships amongst honesty. We work together, ask opinions and share stories._
+* _We offer free daily coffee amongst other treats!_
+* _The Nomad is located in an old wear house with plenty of natural light and open space, for artists to work freely!_
 
+#### Setup/Installation Requirements
 
-
-
-
-
-### Setup/Installation Requirements
-
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Clone this repository to your desktop_
+* _In your terminal, at the projects top level, run this command:
+    npm install_
+* _If everything runs smoothly without errors, run the next command:
+    npm run start_
 
 ### Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_There are no known bugs at this time._
 
 ### Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{If you have any questions or concerns please do not hesitate to contact me at doriswarren11@gmail.com! I would love to chat._
 
 ### Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Sketch, v50.2_
 
 #### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This software is licensed under the MIT License*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Doris Warren_**
