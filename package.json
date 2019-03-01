@@ -1,0 +1,12 @@
+{
+  "name": "co-working-contract",
+  "version": "1.0.0",
+  "description": "#### _MockUp website design for a co-working space. A place to feel at home and welcomed no matter what you do!_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

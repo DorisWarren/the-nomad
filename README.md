@@ -80,7 +80,7 @@ _There are no known bugs at this time._
 
 ### Support and contact details
 
-_{If you have any questions or concerns please do not hesitate to contact me at doriswarren11@gmail.com! I would love to chat._
+_If you have any questions or concerns please do not hesitate to contact me at doriswarren11@gmail.com! I would love to chat._
 
 ### Technologies Used
 
