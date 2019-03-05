@@ -1,11 +1,11 @@
 {
   "name": "co-working-contract",
   "version": "1.0.0",
-  "description": "#### _MockUp website design for a co-working space. A place to feel at home and welcomed no matter what you do!_",
+  "description": "MockUp website design for a co-working space.",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode development",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run build; webpack-dev-server --open --mode development"
   },
   "keywords": [],
   "author": "",
@@ -13,9 +13,14 @@
   "dependencies": {},
   "devDependencies": {
     "css-loader": "^0.28.10",
+    "file-loader": "^1.1.6",
+    "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
     "style-loader": "^0.20.2",
     "webpack": "^4.0.1",
-    "webpack-cli": "^2.0.9"
+    "webpack-cli": "^2.0.9",
+    "webpack-dev-server": "^3.1.0"
   }
 }
