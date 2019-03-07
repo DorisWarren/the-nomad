@@ -1,8 +1,8 @@
 # _THE NOMAD_
 
-#### _MockUp website design for a co-working space. A place to feel at home and welcomed no matter what you do!_
+##### _MockUp website design for a co-working space. A place to feel at home and welcomed no matter what you do!_
 
-####  _**-Doris Warren | 2.22.2018-**_
+####  _**Doris Warren | 2.22.2018**_
 
 ### Description
 
@@ -67,23 +67,23 @@ _The Nomad website is being built to create a safe place for freelance creatives
 * _The Nomad is located in an old wear house with plenty of natural light and open space, for artists to work freely!_
 
 #### Sketches
- _-Sketch of Desktop landing page-_
+* _Sketch of Desktop landing page_
 
 ![Sketches](src/img/sketching.JPG)
 
- _-Sketch of Mobile version along with target pages-_
+* _Sketch of Mobile version along with target pages_
 
 ![Sketches for content](src/img/infopages.JPG)
 
 #### Prototype
 
- _Mobile_
+* _Mobile_
 ![Mobile](src/img/mobile.png)
 
- _Tablet_
+* _Tablet_
 ![Tablet](src/img/tablet.png)
 
- _Desktop_
+ * _Desktop_
 ![Desktop](src/img/desktop.png)
 
 #### Setup/Installation Requirements
