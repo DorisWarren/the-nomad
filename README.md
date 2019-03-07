@@ -67,22 +67,23 @@ _The Nomad website is being built to create a safe place for freelance creatives
 * _The Nomad is located in an old wear house with plenty of natural light and open space, for artists to work freely!_
 
 #### Sketches
-_-Sketch of Desktop landing page-_
+ _-Sketch of Desktop landing page-_
 
 ![Sketches](src/img/sketching.JPG)
 
-_-Sketch of Mobile version along with target pages-_
+ _-Sketch of Mobile version along with target pages-_
 
-![Sketches for content pages](src/img/infopages.JPG)
+![Sketches for content](src/img/infopages.JPG)
 
 #### Prototype
 
+ _Mobile_
 ![Mobile](src/img/mobile.png)
 
-
+ _Tablet_
 ![Tablet](src/img/tablet.png)
 
-
+ _Desktop_
 ![Desktop](src/img/desktop.png)
 
 #### Setup/Installation Requirements
