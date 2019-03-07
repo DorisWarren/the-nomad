@@ -2,7 +2,7 @@
 
 #### _MockUp website design for a co-working space. A place to feel at home and welcomed no matter what you do!_
 
-#### By _**Doris Warren**_
+#### By _**Doris Warren | 2.22.2018**_
 
 ### Description
 
@@ -22,7 +22,7 @@ _The Nomad website is being built to create a safe place for freelance creatives
 
 #### Natascha | Photographer  
 
-##### "I don't want to lose sight of *who I am* when I go to work."
+##### "I need to feel freedom of expression when I go to work."
 
 ###### Needs
 
@@ -66,6 +66,11 @@ _The Nomad website is being built to create a safe place for freelance creatives
 * _We offer free daily coffee amongst other treats!_
 * _The Nomad is located in an old wear house with plenty of natural light and open space, for artists to work freely!_
 
+#### Sketches
+
+![Sketches for MockUp](../img/sketching.JPG)
+![Sketches for MockUp](../img/infopages.JPG)
+
 #### Setup/Installation Requirements
 
 * _Clone this repository to your desktop_
@@ -74,15 +79,15 @@ _The Nomad website is being built to create a safe place for freelance creatives
 * _If everything runs smoothly without errors, run the next command:
     npm run start_
 
-### Known Bugs
+#### Known Bugs
 
 _There are no known bugs at this time._
 
-### Support and contact details
+#### Support and contact details
 
 _If you have any questions or concerns please do not hesitate to contact me at doriswarren11@gmail.com! I would love to chat._
 
-### Technologies Used
+#### Technologies Used
 
 _Sketch, v50.2_
 

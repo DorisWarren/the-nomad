@@ -1,7 +1,22 @@
 body {
   background-color: #F1F2ED;
+  margin: 0px;
+  padding: 0px;
+
 }
 
 .container {
+  height: 100%;
+}
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  .logo {
+    padding-bottom: 5px;
+  }
+}
+
+.side-text {
+  width: 45px;
 }
