@@ -2,15 +2,15 @@
 
 #### _MockUp website design for a co-working space. A place to feel at home and welcomed no matter what you do!_
 
-#### By _**Doris Warren | 2.22.2018**_
+####  _**-Doris Warren | 2.22.2018-**_
 
 ### Description
 
-_The Nomad website is being built to create a safe place for freelance creatives of all sorts, to come together! | This is an exercise created for us to practice the process of designing a website. We will exercise strengths in targeting users, creating wireframes, curating navigable prototypes and the best for last, coding a live site!_
+_The Nomad website is being built to create a safe place for freelance creatives of all sorts, to come together! This is an exercise created for us to practice the process of designing a website. We will exercise strengths in targeting users, creating wireframes, curating navigable prototypes and the best for last, coding a live site!_
 
 ### Target Users
 
-* _NOT JUST A COMMUNITY BUT A PLATFORM FOR GROWTH!_
+ _NOT JUST A COMMUNITY BUT A PLATFORM FOR GROWTH!_
 
 * _A potential beehive that is not restricted to a specific group. Open a nature of all collectives, where everyone is willing to learn and grow together._
 
@@ -22,7 +22,7 @@ _The Nomad website is being built to create a safe place for freelance creatives
 
 #### Natascha | Photographer  
 
-##### "I need to feel freedom of expression when I go to work."
+###### "I need to feel freedom of expression when I go to work."
 
 ###### Needs
 
@@ -45,7 +45,7 @@ _The Nomad website is being built to create a safe place for freelance creatives
 
 #### Nick Stindos | Artist  
 
-##### "I want to build relationships with people who like me and my work!"
+###### "I want to build relationships with people who like me and my work!"
 
 ###### Needs
 
@@ -67,9 +67,23 @@ _The Nomad website is being built to create a safe place for freelance creatives
 * _The Nomad is located in an old wear house with plenty of natural light and open space, for artists to work freely!_
 
 #### Sketches
+_-Sketch of Desktop landing page-_
 
-![Sketches for MockUp](../img/sketching.JPG)
-![Sketches for MockUp](../img/infopages.JPG)
+![Sketches](src/img/sketching.JPG)
+
+_-Sketch of Mobile version along with target pages-_
+
+![Sketches for content pages](src/img/infopages.JPG)
+
+#### Prototype
+
+![Mobile](src/img/mobile.png)
+
+
+![Tablet](src/img/tablet.png)
+
+
+![Desktop](src/img/desktop.png)
 
 #### Setup/Installation Requirements
 
@@ -79,17 +93,33 @@ _The Nomad website is being built to create a safe place for freelance creatives
 * _If everything runs smoothly without errors, run the next command:
     npm run start_
 
-#### Known Bugs
+#### Technologies Used
 
-_There are no known bugs at this time._
+* _Sketch v52.6._
+* _Node Package Manager_
+* _Sass_
+* _jQuery_
+
+  _Dependencies_
+  * _clean-webpack-plugin v0.1.18_
+  * _css-loader v2.1.0_
+  * _file-loader v1.1.6_
+  * _html-webpack-plugin v3.2.0_
+  * _node-sass v4.9.3_
+  * _sass-loader v7.1.0_
+  * _style-loader v0.20.2_
+  * _uglifyjs-webpack-plugin v1.2.2_
+  * _webpack v4.0.1_
+  * _webpack-cli v2.0.9_
+  * _webpack-dev-server v^3.1.0_
+
+#### Known Bugs
+* _There are no known bugs at this time. Please feel free to contact me if there is anything that needs attention._  
 
 #### Support and contact details
 
-_If you have any questions or concerns please do not hesitate to contact me at doriswarren11@gmail.com! I would love to chat._
+_If you have any questions or concerns please do not hesitate to contact me at doriswarren11@gmail.com. I would love to chat!_
 
-#### Technologies Used
-
-_Sketch, v50.2_
 
 #### License
 
