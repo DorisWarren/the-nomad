@@ -1,12 +1,13 @@
 body {
   background-color: #F1F2ED;
-  margin: 0px;
+  margin: 10px;
   padding: 0px;
-
+  font-family:'Cormorant Garamond', serif;
 }
 
 .container {
   height: 100%;
+  width: auto;
 }
 
 .header {
@@ -16,7 +17,121 @@ body {
     padding-bottom: 5px;
   }
 }
+#the {
+  vertical-align: middle;
+  display: table-cell;
+  text-align: center;
+  padding-left: 55px;
+  font-size: 25px;
+  letter-spacing: -2.37;
 
+}
+#nomad {
+  padding-left: 88px;
+  font-size: 46px;
+  position: absolute;
+  top: 40px;
+  left: 16px;
+  z-index: 10;
+  letter-spacing: 27.23;
+
+}
+
+.member-login {
+  letter-spacing:5.24;
+}
+.content {
+  display:flex;
+}
 .side-text {
-  width: 45px;
+  height: 150%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  left: 0px;
+  width: 100px;
+  p{
+    transform: translate(80px, 20px)rotate(-90deg);
+    transform-origin: left top 0;
+    height: 60px;
+    width: 500px;
+    font-size: 22px;
+    letter-spacing: 7.25;
+
+  }
+}
+.nav-bar {
+  display:flex;
+  flex-direction: column;
+  align-items: cente;
+  left: 20px;
+  padding-right: 10px;
+  font-size:20px;
+  display: none;
+
+}
+.menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 250px;
+  padding-top: 300PX;
+  line-height: 500%;
+  font-size: 15px;
+  letter-spacing: 4.94;
+  #march{
+    font-size: 24px;
+    padding-left: -20px;
+
+  }
+  #date {
+    font-size: 14px;
+    padding-right: 50px;
+  }
+}
+
+.image img {
+  width: 110%;
+  height:160%;
+  display: flex;
+  padding-bottom: 30px;
+  padding-left: 38px;
+  position: relative;
+  top: -25px;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+
+  .tour {
+    transform: translate(-80px, -60px);
+    color: #A09B97
+  }
+}
+
+@media screen and (max-width:1218px) {
+ //  .image img{
+ //    width: 100%;
+ //    height: auto;
+ //    display: flex;
+ //    flex-wrap: wrap;
+ //
+ // }
+ .container{
+   height: 100%;
+   width: auto;
+ }
+ .menu {
+   display: none;
+ }
+ .nav-bar {
+   display: flex;
+   flex-direction:column;
+   padding-: 20px;
+   height: 100px;
+ }
+ .member-login {
+   display: none;
+
+ }
 }
